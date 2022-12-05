@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nandan Vaghela
-- 👀 I’m interested in Ethical hacking
-- 🌱 I’m currently learning Web development
+- 👀 I’m interested in AI/ML
+- 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me nandan.praful@gmail.com
 - P.S. I'm a Marvel fan
 <!---
